@@ -14,6 +14,8 @@ Git: es un sistema de contro de versiones.
         git status: nos muestra el archivo que fue modificado.
         git add . o  (nombre del archivo): nos sube todo los cambios al area de preparacion, y guarda los cambios
         git push: sube todo los archivos y cambios a el repositorio de git, guardando los cambios de forma definitiva
+        git reset HEAD <nombre archivo>: nos permite sacar al archivo de la zona de preparacion
+        
 
 ## 4 FLUJO DE TRABAJO BASICO: 
     1. Modificar una serie de archivos en el directorio de trabajo
