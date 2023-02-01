@@ -6,9 +6,9 @@ Git: es un sistema de contro de versiones.
     permite regresar a la version anterior de un archivo apesar de haber cerrado todos los archivos
 
 ## 3 ESTADOS DE GIT:
-    --> WORKING: se almacenan todos los archivos del proyecto
-    --> STANDING AREA: area de preparacion, se configuran y fijan los cambios
-    --> GIT DIRECTORY: se encuentran los cambios confirmados.
+    --> WORKING -(area de trabajo): se almacenan todos los archivos del proyecto
+    --> STANDING AREA -(area de preparacion): area de preparacion, se configuran y fijan los cambios
+    --> GIT DIRECTORY -(directorio de git): se encuentran los cambios confirmados.
 
     3.1 Estados:
         git status: nos muestra el archivo que fue modificado.
