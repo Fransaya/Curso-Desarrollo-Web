@@ -25,3 +25,8 @@
 -- git chekout (nombre del archivo): permite recuperar un archivo que fue eliminado.
 
 -- git mv (nombre inicial nombre nuevo): renombra archivos.
+
+-- git log: nos permite ver un historia de todos los commits realizados
+    -- git log --oneline
+    -- git log --graph
+    -- git log --pretty=format:"%h - %an, %ar : %s": muestra el historial con el formato que se indica.
