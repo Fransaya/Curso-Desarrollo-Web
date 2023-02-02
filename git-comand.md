@@ -19,3 +19,9 @@
 -- git commit: abre el editor seleccionado y nos permite hacer un commit mas extenso de la modificacion.
 
 -- git commit -a -m: salta el area de preparacion (sirve para los archivos que estamos rastreando)
+
+-- git rm: elimina archivos rastreados del repositorio y del nuestro directorio de trabajo, para que no aparezcan la proxima vez como archivos no rastreados.
+
+-- git chekout (nombre del archivo): permite recuperar un archivo que fue eliminado.
+
+-- git mv (nombre inicial nombre nuevo): renombra archivos.
