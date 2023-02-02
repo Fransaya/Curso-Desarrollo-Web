@@ -27,6 +27,16 @@
 -- git mv (nombre inicial nombre nuevo): renombra archivos.
 
 -- git log: nos permite ver un historia de todos los commits realizados
+
     -- git log --oneline
+
     -- git log --graph
+
     -- git log --pretty=format:"%h - %an, %ar : %s": muestra el historial con el formato que se indica.
+
+    -- git log -n: remplazanaod la n por cualquier numero, ejemplo: git log -2, muestra los dos commits mas recientes
+
+    -- git log --after "fecha y hora en la que quiero ver los commits": muestra los commits realizos despues de la fecha especificada
+
+    --git log --before "fecha y hora en la que quiero ver los commits": muestra los commits realizados despues de la fehcas especificada
+    
