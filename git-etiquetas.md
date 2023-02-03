@@ -14,7 +14,11 @@
 
 ## COMANDOS PARA ETIQUETAS:
 
-    @ git tag: permite listar las etiquestas que ya existen en orden alfabetico
+    @ git tag: permite listar las etiquestas que ya existen en orden alfabetico.
+
+        - git tag -l "v1.*" : lista de las etiquetas que coinciden con el patron especificado.
+
+    @ git show: permite ver los cambios que se realizaron en un commit especifico.
 
     
 
