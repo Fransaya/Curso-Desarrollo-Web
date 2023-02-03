@@ -43,4 +43,6 @@
     --git log --before "fecha y hora en la que quiero ver los commits": muestra los commits realizados despues de la fehcas especificada
 
 -- git commit --amend: nos permite agragar un archivo que se encuentre en el area de trabajo, al ultimo commit que realizmos, ya sea pq nos olvidamos de agregarlo.
+
+Esta linea fue creada en la rama main.
     
