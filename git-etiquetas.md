@@ -20,6 +20,9 @@
 
     @ git show: permite ver los cambios que se realizaron en un commit especifico.
 
+    @ git checkout <nombre de etiqueta o hash> : permite movernos a esta etiqueta determinada, es decir pararnos en la misma, y poder ver y analizar sus cambios.
+    
+
     
 
 
