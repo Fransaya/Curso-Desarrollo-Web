@@ -4,7 +4,15 @@
 
 -- git add . o (nombre del archivo): sube todos los cambios al area de preparacion y guarda los cambios.
 
--- git commit: permite comentar los cambios asi tener un registro escrito de los mismos
+-- git commit (general): permite comentar los cambios asi tener un registro escrito de los mismos
+
+    -- git commit -m: explicacion de los cambios realizados.
+
+    -- git commit(usandolo sin el -m): abre el editor seleccionado y nos permite hacer un commit mas extenso de la modificacion.
+
+    -- git commit -a -m: salta el area de preparacion (sirve para los archivos que estamos rastreando)
+
+    -- git commit -amend: permite agregar cambios a un commit ya realizado.
 
 -- git push: sube todos los cambios a el repositorio de git, guardando los cambios de forma definitiva.
 
@@ -13,12 +21,6 @@
 -- git ignore: (.gitignore) se utiliza cuando queremos que git ignore el archivo, es decir que no lo suba.
 
 -- git diff: compara lo que tenemos en el area de trabajo con lo que esta en el area de preparacion.
-
--- git commit -m: explicacion de los cambios realizados.
-
--- git commit: abre el editor seleccionado y nos permite hacer un commit mas extenso de la modificacion.
-
--- git commit -a -m: salta el area de preparacion (sirve para los archivos que estamos rastreando)
 
 -- git rm: elimina archivos rastreados del repositorio y del nuestro directorio de trabajo, para que no aparezcan la proxima vez como archivos no rastreados.
 
@@ -39,4 +41,6 @@
     -- git log --after "fecha y hora en la que quiero ver los commits": muestra los commits realizos despues de la fecha especificada
 
     --git log --before "fecha y hora en la que quiero ver los commits": muestra los commits realizados despues de la fehcas especificada
+
+-- git commit --amend: nos permite agragar un archivo que se encuentre en el area de trabajo, al ultimo commit que realizmos, ya sea pq nos olvidamos de agregarlo.
     
