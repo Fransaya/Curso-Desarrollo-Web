@@ -10,9 +10,11 @@
 
     -- git commit(usandolo sin el -m): abre el editor seleccionado y nos permite hacer un commit mas extenso de la modificacion.
 
-    -- git commit -a -m: salta el area de preparacion (sirve para los archivos que estamos rastreando)
+    -- git commit -a -m: con este comando se salta el area de preparacion (sirve para los archivos que estamos rastreando)
 
     -- git commit -amend: permite agregar cambios a un commit ya realizado.
+
+    
 
 -- git push: sube todos los cambios a el repositorio de git, guardando los cambios de forma definitiva.
 
