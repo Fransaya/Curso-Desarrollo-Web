@@ -42,3 +42,5 @@ Git: es un sistema de contro de versiones.
     6. Hacer push de mis cambios (enviar los commits locales a GitHub) 'git push origin <nombre de la rama>'.
     7. Crear un pull request con la nueva rama con mi repositorio en GitHub.
     8. Esperar a que el administrador del repositorio original acepte mis cambios. 
+
+deteccion de cambios
