@@ -1,4 +1,4 @@
-## CURSO DESARROLLO WEB
+# CURSO DESARROLLO WEB
 
 CLASE -1-
 
@@ -17,7 +17,7 @@ Git: es un sistema de contro de versiones.
         git reset HEAD <nombre archivo>: nos permite sacar al archivo de la zona de preparacion
 
 
-## 4 FLUJO DE TRABAJO BASICO: 
+### 4 FLUJO DE TRABAJO BASICO: 
     1. Modificar una serie de archivos en el directorio de trabajo
     2. Preparar archivos en el directorio de trabajo
     3.Confirmacion de los cambios, los almacena en el area de preparacion y almacena una copia permanente en git

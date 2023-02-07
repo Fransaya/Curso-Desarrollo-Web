@@ -1,11 +1,11 @@
-## git merge (fusion)
+# GIT MERGE (fusion)
 
     --> git merge: Sirve para fusionar ramas, (Incorpora otra rama a la rama actual en la que estamos parados o rama actual.)
 
-## git branch --no-merged
+### git branch --no-merged
     Nos indica ramas no han sido fusionado a la rama actual.
 
-## git branch --merged: 
+### git branch --merged: 
     Nos indica que ramas si han sido fusionado a la rama actual.
 
 

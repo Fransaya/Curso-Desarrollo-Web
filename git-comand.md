@@ -1,4 +1,4 @@
-## COMANDOS DE GIT IMPORTANTES
+# COMANDOS DE GIT IMPORTANTES
 
 --> git status: muestra el archivo que fue modificado
 
@@ -19,7 +19,7 @@
 --> git mv (nombre inicial nombre nuevo): renombra archivos.
 
 
-## ORDEN DE UPPWORK (SUBIDA):
+### ORDEN DE UPPWORK (SUBIDA):
     1. git status
     2. git add 
     3. git commit

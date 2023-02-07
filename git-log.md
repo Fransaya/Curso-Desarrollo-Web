@@ -1,4 +1,4 @@
-## GIT LOG:
+# GIT LOG:
     --> git log: nos permite ver un historial de los commits realizados.
 
 ## GIT LOG COMMANDS:

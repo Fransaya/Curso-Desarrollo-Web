@@ -1,7 +1,7 @@
-## GIT COMMIT
+# GIT COMMIT
     -> git commit: nos permite comentar los cambios que se realizan en un  archivos para tener un registro de los mismos.
 
-### COMMANDS:
+## COMMANDS:
 
     --> git commit-m: permite realizar una explicacion de los cambios realizados.
 

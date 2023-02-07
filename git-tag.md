@@ -1,8 +1,10 @@
-## ETIQUETAS DE GIT:
+# ETIQUETAS DE GIT:
 
     ETIQUETAS: permite macar puntos especificos en la historia como importantes.
 
 ## COMO SE CREA UNA ETIQUETA:
+
+    git tag <nombre de la etiqueta>
 
      Existen dos tipos de etiquetas:
 
@@ -12,7 +14,7 @@
         ## ETIQUETA ANOTADA: guardan en la base de datos de git, objetos enteros. (el commit de un punto de la historia.) 
             Forma: git tag -a <nombre de la etiqueta> -m <mensaje de la etiqueta>.
 
-## COMANDOS PARA ETIQUETAS:
+### COMANDOS PARA ETIQUETAS:
 
     @ git tag: permite listar las etiquestas que ya existen en orden alfabetico.
 
