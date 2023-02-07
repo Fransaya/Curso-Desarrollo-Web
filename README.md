@@ -32,3 +32,4 @@ Git: es un sistema de contro de versiones.
     ## GIT IGNORE: se utiliza cuando queremos que git ignore el archivo, es decir que no lo suba automaticamente, que no lo tenga en cuenta
     
     <!-- ## GIT DIFF: compara lo que tenemos en el area de trabajo con lo que esta en el area de preparacion. -->
+
