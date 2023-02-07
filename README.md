@@ -33,3 +33,12 @@ Git: es un sistema de contro de versiones.
     
     <!-- ## GIT DIFF: compara lo que tenemos en el area de trabajo con lo que esta en el area de preparacion. -->
 
+## PASOS PARA APORTAR EN OTRO REPOSITORIO
+    1. hcaer un fork en GitHub.
+    2. Clonar el repositorio desde mi cuenta de GitHub.
+    3. Crear una rama local.
+    4. Realizar mis cambios en mi nueva rama local.
+    5. Confirmar los cambios realizados en local.
+    6. Hacer push de mis cambios (enviar los commits locales a GitHub) 'git push origin <nombre de la rama>'.
+    7. Crear un pull request con la nueva rama con mi repositorio en GitHub.
+    8. Esperar a que el administrador del repositorio original acepte mis cambios. 
