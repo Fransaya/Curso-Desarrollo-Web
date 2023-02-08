@@ -44,3 +44,6 @@ Git: es un sistema de contro de versiones.
     8. Esperar a que el administrador del repositorio original acepte mis cambios. 
 
 deteccion de cambios
+
+## VARIOS REPOSITORIOS REMOTOS.
+    Se puede configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos.
