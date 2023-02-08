@@ -24,6 +24,8 @@
 
     @ git checkout <nombre de etiqueta o hash> : permite movernos a esta etiqueta determinada, es decir pararnos en la misma, y poder ver y analizar sus cambios.
     
+## VARIOS REPOSITORIOS REMOTOS.
+    Se puede configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos.
 
     
 
