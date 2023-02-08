@@ -47,3 +47,4 @@ Git: es un sistema de contro de versiones.
 ## VARIOS REPOSITORIOS REMOTOS.
     Se puede configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos.
 
+continuar clase 11 minuto 30:12
