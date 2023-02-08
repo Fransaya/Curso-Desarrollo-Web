@@ -30,8 +30,8 @@ Git: es un sistema de contro de versiones.
     --> Modified: este estado en cuando modificamos el archivo.
 
     ## GIT IGNORE: se utiliza cuando queremos que git ignore el archivo, es decir que no lo suba automaticamente, que no lo tenga en cuenta
-    
-    <!-- ## GIT DIFF: compara lo que tenemos en el area de trabajo con lo que esta en el area de preparacion. -->
+
+    ## GIT DIFF: compara lo que tenemos en el area de trabajo con lo que esta en el area de preparacion. 
 
 ## PASOS PARA APORTAR EN OTRO REPOSITORIO
     1. hcaer un fork en GitHub.
@@ -43,6 +43,7 @@ Git: es un sistema de contro de versiones.
     7. Crear un pull request con la nueva rama con mi repositorio en GitHub.
     8. Esperar a que el administrador del repositorio original acepte mis cambios. 
 
-deteccion de cambios
 
+## VARIOS REPOSITORIOS REMOTOS.
+    Se puede configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos.
 
