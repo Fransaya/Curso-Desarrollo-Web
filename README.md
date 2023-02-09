@@ -47,4 +47,23 @@ Git: es un sistema de contro de versiones.
 ## VARIOS REPOSITORIOS REMOTOS.
     Se puede configurar un mismo proyecto para sincronizar cambios con varios repositorios remotos.
 
-continuar clase 11 minuto 30:12
+
+## CONFIGURACION SSH EN WINDOWS:
+    Usando Git bash seguimos los siguientes pasos:
+
+    1. Creamos una carpeta llamada 'llaves=ssh' en el disco 'C' para evitar problemas de ruta.
+
+    2. Ejecutar el comando "ssh-keygen -t rsa -C "correo electronico@gmail.com".
+    El correo debe ser el mismo con el que registramos en GitHub para evitar posibles problemas.
+    Dejamos el passhrase vacion y damos enter.
+    Cuando nos pida la ruta escribimos '/c/llaves-ssh'github_rsa'.
+
+    3. Iniciamos ssh-agent en background ejecutando el comando 'eval "$(ssh-a).
+
+    4. Agregamos la llave ssh generada a ssh-agent ejecutando el comando 'ssh-add /c/llaves-ssh/github_rsa'.
+
+    5. Desde ahora podes hacer pull si que git hub no esta pidiendo datos de acceso.
+
+    
+    
+    
