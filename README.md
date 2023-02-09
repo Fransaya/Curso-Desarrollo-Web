@@ -62,7 +62,12 @@ Git: es un sistema de contro de versiones.
 
     4. Agregamos la llave ssh generada a ssh-agent ejecutando el comando 'ssh-add /c/llaves-ssh/github_rsa'.
 
-    5. Desde ahora podes hacer pull si que git hub no esta pidiendo datos de acceso.
+    5. Usar el comando 'cat /c/llaves-ssh/github_rsa.pub.
+    Con este comando vemos el contenido del archivo, copiamos todo el texto que nos muestra.
+
+    6. Ir a las configuracion de nuestro perfil de Github y agregar una nueva llaves SSH con el contenido que hemos copiados de github_rsa.pub.
+    
+    Desde ahora podes hacer pull si que git hub no esta pidiendo datos de acceso.
 
     
     
