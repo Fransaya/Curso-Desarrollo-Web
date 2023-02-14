@@ -70,5 +70,5 @@ Git: es un sistema de contro de versiones.
     Desde ahora podes hacer pull si que git hub no esta pidiendo datos de acceso.
 
     
-    intento de pusheo de github y bitbucket
+   
     
