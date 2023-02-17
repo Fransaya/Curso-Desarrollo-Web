@@ -19,3 +19,6 @@
 
 # ATRIBUTOS:
     un atributo es un par nombre valor, que esta separado por un =, estos permiten cambiar el comportamiento o configurar una etiqueta.
+
+ ## Ejemplo:
+     el tag de <img> sirve para mostrar una imagen, pero va es acompaniado por el atributo scr= que es en donde se indica la url de donde se copio la imagen
