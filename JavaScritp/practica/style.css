@@ -1,0 +1,14 @@
+#encabezado {
+    background: blue;
+    margin-top: 25px;
+    padding: 50px;
+    color: #afff;
+    border-radius: 10px;
+    border-style: dotted;
+
+}
+.text-h1 {
+    margin-top: -50px;
+    margin-bottom: 50px;
+   
+}
