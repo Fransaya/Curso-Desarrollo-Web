@@ -19,4 +19,6 @@
 
   ### cald y aplly :
     - Asignan un valor para this y ejecutan la funcion.
+  ### bind:
+    - permite asignar un valor a this sin que la funcion se ejecute, este retorna una nueva funcion para la que el valor de this fue definido.
     

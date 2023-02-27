@@ -73,5 +73,18 @@
         - Son aquellas funciones que se utilizar para crear un objeto.
         ( cualquier funcion se puede usar para instanciar un objeto).
 
+        - Sintaxis funcion Constructora:
+            function Curso(title){
+                this.title='curso de desarrollo';
+                this.alumno='francisco sayago';
+            } //  aqui estamos creando la funcion constructora junto con los argumentos que la misma va a recibir.
+
+            let objeto= new Curso('js','francisco sayago');// aqui utilizo el new que crea la funcion constructora, y despues llama a la funcion y le pasa el nuevo objeto como valor de la palabra reservada this.
+
+            console.log(objeto); // aqui se muestra el objeto ya creado con los valores que pasamos como argumento anteriormente.
+
+
+
+
         
 

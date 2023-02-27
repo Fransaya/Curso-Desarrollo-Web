@@ -118,7 +118,8 @@
       
       ## Metodo findIndex:
          - Aqui no importa el elemento, sino en la posicion en la que esta.
-         es decir la funcion retorna la posicion en la que esta ese elemento.
+         es decir la funcion retorna la posicion en la que esta ese elemento. 
+         si no lo encuentra retorna -1.
 
          - Sintaxis: (IGUAL A LA ANTERIOR).
 
@@ -137,7 +138,7 @@
    ## Rest parameters: (...)
       - permite agrupar los elementos enviados a una funcion en un arreglo.
 
-      - Sintaxis:
+      
       
 
 
