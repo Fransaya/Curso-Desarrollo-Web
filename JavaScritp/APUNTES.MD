@@ -35,7 +35,6 @@
 # Funciones o Function
  Agrupa codigo, para poder ejecutarlos varias veces.
 
- - console.log(argumento): recibe un argumento y lo imprime.
 
  ## Declaracion de funciones:
  - Sintaxis:
